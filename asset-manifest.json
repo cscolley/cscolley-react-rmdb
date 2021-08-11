@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/cscolley-react-rmdb/static/js/main.1bb0d6ec.chunk.js",
+    "main.js.map": "/cscolley-react-rmdb/static/js/main.1bb0d6ec.chunk.js.map",
+    "runtime-main.js": "/cscolley-react-rmdb/static/js/runtime-main.30cf183a.js",
+    "runtime-main.js.map": "/cscolley-react-rmdb/static/js/runtime-main.30cf183a.js.map",
+    "static/js/2.54949fc5.chunk.js": "/cscolley-react-rmdb/static/js/2.54949fc5.chunk.js",
+    "static/js/2.54949fc5.chunk.js.map": "/cscolley-react-rmdb/static/js/2.54949fc5.chunk.js.map",
+    "index.html": "/cscolley-react-rmdb/index.html",
+    "static/js/2.54949fc5.chunk.js.LICENSE.txt": "/cscolley-react-rmdb/static/js/2.54949fc5.chunk.js.LICENSE.txt",
+    "static/media/no_image.22d2aa4d.jpg": "/cscolley-react-rmdb/static/media/no_image.22d2aa4d.jpg",
+    "static/media/react-movie-logo.42955eb6.svg": "/cscolley-react-rmdb/static/media/react-movie-logo.42955eb6.svg",
+    "static/media/search-icon.cd820f5a.svg": "/cscolley-react-rmdb/static/media/search-icon.cd820f5a.svg",
+    "static/media/tmdb_logo.f15b6632.svg": "/cscolley-react-rmdb/static/media/tmdb_logo.f15b6632.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30cf183a.js",
+    "static/js/2.54949fc5.chunk.js",
+    "static/js/main.1bb0d6ec.chunk.js"
+  ]
+}
