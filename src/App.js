@@ -1,7 +1,7 @@
 import React from "react";
 
 // Routing
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 // Components
 import Header from "./components/Header";
@@ -13,7 +13,7 @@ import NotFound from "./components/NotFound";
 import { GlobalStyle } from "./GlobalStyle";
 
 const App = () => (
-  <Router>
+  <Router basename='/'>
     <Header />
     <Routes>
       <Route path='/' element={<Home />} />
